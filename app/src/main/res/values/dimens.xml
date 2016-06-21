@@ -8,7 +8,7 @@
     <dime name="size_medial_48">48dp</dime>
     <dime name="size_large_72">72dp</dime>
 
-        <!-- spacing -->
+        <!-- spacing size-->
     <dimen name="spacing_small_8">8dp</dimen>
     <dimen name="spacing_normal_16">16dp</dimen>
     <dimen name="spacing_medial_24">24dp</dimen>
